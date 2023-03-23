@@ -1,0 +1,10 @@
+@startuml XOgame
+class xoVM
+{
+    xoVM()
+    tappeditem()
+    winner()
+    reset()
+}
+
+class 
